@@ -25,6 +25,7 @@
           />
         </div>
         <base-button name="メニューの一覧" link="/menu/" />
+        <base-heading> MdN Cafeのタイトルを変更してみる </base-heading>
         <h2 class="font-sans text-lg text-gray-800 text-center text-3xl mb-10">
           MdN Cafeのお知らせ
         </h2>
